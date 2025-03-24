@@ -1,0 +1,381 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated": 1742808301000,
+    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
+    "title": "USGS All Earthquakes, Past Hour",
+    "status": 200,
+    "api": "1.14.1",
+    "count": 9
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.83,
+        "place": "10 km NNW of The Geysers, CA",
+        "time": 1742807588790,
+        "updated": 1742807683520,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75154357",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75154357.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 11,
+        "net": "nc",
+        "code": "75154357",
+        "ids": ",nc75154357,",
+        "sources": ",nc,",
+        "types": ",nearby-cities,origin,phase-data,",
+        "nst": 9,
+        "dmin": 0.00212,
+        "rms": 0.01,
+        "gap": 122,
+        "magType": "md",
+        "type": "earthquake",
+        "title": "M 0.8 - 10 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.836669921875,
+          38.8404998779297,
+          1.35000002384186
+        ]
+      },
+      "id": "nc75154357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.78,
+        "place": "7 km NW of The Geysers, CA",
+        "time": 1742807295970,
+        "updated": 1742807393391,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75154352",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75154352.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 9,
+        "net": "nc",
+        "code": "75154352",
+        "ids": ",nc75154352,",
+        "sources": ",nc,",
+        "types": ",nearby-cities,origin,phase-data,",
+        "nst": 6,
+        "dmin": 0.01083,
+        "rms": 0.01,
+        "gap": 145,
+        "magType": "md",
+        "type": "earthquake",
+        "title": "M 0.8 - 7 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.823165893555,
+          38.8198318481445,
+          2.02999997138977
+        ]
+      },
+      "id": "nc75154352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "18 km SW of Ackerly, Texas",
+        "time": 1742807076621,
+        "updated": 1742807900783,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025funj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025funj.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 22,
+        "net": "tx",
+        "code": "2025funj",
+        "ids": ",tx2025funj,",
+        "sources": ",tx,",
+        "types": ",origin,phase-data,",
+        "nst": 36,
+        "dmin": 0,
+        "rms": 0.5,
+        "gap": 35,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.2 - 18 km SW of Ackerly, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.852,
+          32.402,
+          3.898
+        ]
+      },
+      "id": "tx2025funj"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.72,
+        "place": "4 km WNW of Cobb, CA",
+        "time": 1742807053090,
+        "updated": 1742808135614,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75154347",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75154347.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 8,
+        "net": "nc",
+        "code": "75154347",
+        "ids": ",nc75154347,",
+        "sources": ",nc,",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "nst": 7,
+        "dmin": 0.008095,
+        "rms": 0.01,
+        "gap": 134,
+        "magType": "md",
+        "type": "earthquake",
+        "title": "M 0.7 - 4 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.764999389648,
+          38.8233337402344,
+          2.13000011444092
+        ]
+      },
+      "id": "nc75154347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "10 km SE of Sierraville, California",
+        "time": 1742806694423,
+        "updated": 1742806825843,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00895021",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00895021.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 19,
+        "net": "nn",
+        "code": "00895021",
+        "ids": ",nn00895021,",
+        "sources": ",nn,",
+        "types": ",origin,phase-data,",
+        "nst": 11,
+        "dmin": 0.158,
+        "rms": 0.2342,
+        "gap": 205.44,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.1 - 10 km SE of Sierraville, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2938,
+          39.5088,
+          9.7
+        ]
+      },
+      "id": "nn00895021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "41 km E of Anderson, Alaska",
+        "time": 1742806295401,
+        "updated": 1742806398404,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0253teoa2s",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0253teoa2s.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 22,
+        "net": "ak",
+        "code": "0253teoa2s",
+        "ids": ",ak0253teoa2s,",
+        "sources": ",ak,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": null,
+        "rms": 1.12,
+        "gap": null,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.2 - 41 km E of Anderson, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.337,
+          64.3488,
+          6.2
+        ]
+      },
+      "id": "ak0253teoa2s"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.2,
+        "place": "86 km NNW of Karluk, Alaska",
+        "time": 1742805689155,
+        "updated": 1742806466488,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0253tem4fn",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0253tem4fn.geojson",
+        "felt": 1,
+        "cdi": 2,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 75,
+        "net": "ak",
+        "code": "0253tem4fn",
+        "ids": ",ak0253tem4fn,",
+        "sources": ",ak,",
+        "types": ",dyfi,origin,phase-data,",
+        "nst": null,
+        "dmin": null,
+        "rms": 0.98,
+        "gap": null,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 2.2 - 86 km NNW of Karluk, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0204,
+          58.2831,
+          0
+        ]
+      },
+      "id": "ak0253tem4fn"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.79,
+        "place": "16 km N of Ocotillo Wells, CA",
+        "time": 1742805249240,
+        "updated": 1742805493791,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40908583",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40908583.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 10,
+        "net": "ci",
+        "code": "40908583",
+        "ids": ",ci40908583,",
+        "sources": ",ci,",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "nst": 46,
+        "dmin": 0.1285,
+        "rms": 0.24,
+        "gap": 37,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 0.8 - 16 km N of Ocotillo Wells, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.139,
+          33.2876667,
+          3.91
+        ]
+      },
+      "id": "ci40908583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.62,
+        "place": "2 km N of The Geysers, CA",
+        "time": 1742804778000,
+        "updated": 1742806038391,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75154342",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75154342.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 6,
+        "net": "nc",
+        "code": "75154342",
+        "ids": ",nc75154342,",
+        "sources": ",nc,",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "nst": 7,
+        "dmin": 0.007988,
+        "rms": 0.01,
+        "gap": 123,
+        "magType": "md",
+        "type": "earthquake",
+        "title": "M 0.6 - 2 km N of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.758666992188,
+          38.792667388916,
+          1.24000000953674
+        ]
+      },
+      "id": "nc75154342"
+    }
+  ],
+  "bbox": [
+    -155.0204,
+    32.402,
+    0,
+    -101.852,
+    64.3488,
+    9.7
+  ]
+}
