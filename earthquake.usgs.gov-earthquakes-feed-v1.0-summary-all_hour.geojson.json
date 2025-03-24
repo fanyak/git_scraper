@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1742808301000,
+    "generated": 1742808386000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 9
+    "count": 8
   },
   "features": [
     {
@@ -328,46 +328,6 @@
         ]
       },
       "id": "ci40908583"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.62,
-        "place": "2 km N of The Geysers, CA",
-        "time": 1742804778000,
-        "updated": 1742806038391,
-        "tz": null,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75154342",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75154342.geojson",
-        "felt": null,
-        "cdi": null,
-        "mmi": null,
-        "alert": null,
-        "status": "automatic",
-        "tsunami": 0,
-        "sig": 6,
-        "net": "nc",
-        "code": "75154342",
-        "ids": ",nc75154342,",
-        "sources": ",nc,",
-        "types": ",nearby-cities,origin,phase-data,scitech-link,",
-        "nst": 7,
-        "dmin": 0.007988,
-        "rms": 0.01,
-        "gap": 123,
-        "magType": "md",
-        "type": "earthquake",
-        "title": "M 0.6 - 2 km N of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.758666992188,
-          38.792667388916,
-          1.24000000953674
-        ]
-      },
-      "id": "nc75154342"
     }
   ],
   "bbox": [
