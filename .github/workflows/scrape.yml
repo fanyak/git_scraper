@@ -3,9 +3,9 @@ name: Scrape
 on:
   push:
   workflow_dispatch:
-  schedule:
+  #schedule:
   # Daily at 6:23 AM UTC
-    - cron: '23 6 * * *'
+    #- cron: '23 6 * * *'
   # For hourly at 42 minutes past the hour: '42 * * * *'
 
 permissions:
